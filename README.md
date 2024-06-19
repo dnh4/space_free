@@ -1,10 +1,10 @@
 # SpaceFree
 
-![License](https://img.shields.io/github/license/dnh4/spacefree)
-![Version](https://img.shields.io/github/v/release/dnh4/spacefree)
-![Issues](https://img.shields.io/github/issues/dnh4/spacefree)
-![Forks](https://img.shields.io/github/forks/dnh4/spacefree)
-![Stars](https://img.shields.io/github/stars/dnh4/spacefree)
+![License](https://img.shields.io/github/license/dnh4/space_free)
+![Version](https://img.shields.io/github/v/release/dnh4/space_free)
+![Issues](https://img.shields.io/github/issues/dnh4/space_free)
+![Forks](https://img.shields.io/github/forks/dnh4/space_free)
+![Stars](https://img.shields.io/github/stars/dnh4/space_free)
 
 ## Description
 
