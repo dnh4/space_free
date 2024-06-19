@@ -70,7 +70,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 
 ## Auteurs
 
-- **Ton Nom** - *Développeur principal* - [TonGitHub](https://github.com/dnh4)
+- **Dinahasina Ralaivao** - *Développeur principal* - [dnh4](https://github.com/dnh4)
 
 ## License
 
